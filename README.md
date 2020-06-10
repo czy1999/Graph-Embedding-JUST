@@ -6,7 +6,7 @@
 
 **Core idea:** Achieve Balance without meta-paths
 
-![web_demo](img\steps.png)
+![web_demo](img/steps.png)
 
 
 
@@ -58,7 +58,7 @@ streamlit run src/show.py
 
 ### Web Demo效果展示
 
-![web_demo](img\web_demo.png)
+![web_demo](img/web_demo.png)
 
 
 
@@ -66,7 +66,7 @@ streamlit run src/show.py
 
 * #### 分类效果
 
-![web_demo](img\rate.png)
+![web_demo](img/rate.png)
 
 
 
@@ -74,5 +74,5 @@ streamlit run src/show.py
 
 * #### 聚类效果
 
-![web_demo](img\NMI.png)
+![web_demo](img/NMI.png)
 
